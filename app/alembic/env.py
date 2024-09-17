@@ -5,6 +5,7 @@ from sqlalchemy import pool
 from alembic import context
 from sqlalchemy.dialects.postgresql import psycopg2
 from models import Base
+#This is for testing in branch
 # this is the Alembic Config object, which provides
 # access to the values within the .ini file in use.
 config = context.config
